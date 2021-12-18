@@ -7,14 +7,15 @@
 1. Read and understand the render function and the value of the `variables` variable that it receives.
 2. Change the content of the render function to make it render the variables on the card.
 
+------------
+
+## How can i preview the project?
 
 Note: Make sure that you have node.js installed in your computer by typing in your terminal:
 
 ```bash
 $ node -v
 ```
-
-## How can i preview the project?
 
 Use the following command at the terminal:
 
